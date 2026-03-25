@@ -1,0 +1,5 @@
+/* Redirect shim so plan links work.
+   Real file lives in: Documents/voting/styles.css */
+
+@import url("file:///C:/Users/VinayR/OneDrive/OneDrive%20-%20Ficus%20Pax%20Pvt%20Ltd/Documents/voting/styles.css");
+
